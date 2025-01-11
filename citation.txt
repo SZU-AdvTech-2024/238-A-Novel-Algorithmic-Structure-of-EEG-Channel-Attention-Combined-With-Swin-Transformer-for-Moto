@@ -1,7 +1,7 @@
-@article{REPO238,
-    author = "Wang, Han and Cao, Lei and Huang, Chenxi and Jia, Jie and Dong, Yilin and Fan, Chunjiang and De Albuquerque, Victor Hugo C",
-    journal = "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
-    publisher = "IEEE",
-    title = "{A novel algorithmic structure of EEG Channel Attention combined with Swin Transformer for motor patterns classification}",
-    year = "2023"
+@article{wang2023novel,
+  title={A novel algorithmic structure of EEG Channel Attention combined with Swin Transformer for motor patterns classification},
+  author={Wang, Han and Cao, Lei and Huang, Chenxi and Jia, Jie and Dong, Yilin and Fan, Chunjiang and De Albuquerque, Victor Hugo C},
+  journal={IEEE Transactions on Neural Systems and Rehabilitation Engineering},
+  year={2023},
+  publisher={IEEE}
 }
